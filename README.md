@@ -82,4 +82,3 @@ http://62.84.120.127/redoc/
 - Денис Попченко [mailto:denis@mail.fake]
 - Александр Романов [mailto:alex@mail.fake]
 - Yandex LLC
-Test
