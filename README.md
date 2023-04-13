@@ -74,7 +74,7 @@ POST /api/v1/titles/{title_id}/reviews/
 
 Полный список эндпоинтов:
 ```
-http://127.0.0.1/redoc/
+http://62.84.120.127/redoc/
 ```
 
 ##### Авторы
