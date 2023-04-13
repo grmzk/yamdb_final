@@ -1,9 +1,8 @@
-from django.contrib.auth.models import AbstractUser
-from django.db import models
-
 from api.validators import (max_score_validator, max_year_validator,
                             min_score_validator, min_year_validator,
                             username_me_validator, username_regex_validator)
+from django.contrib.auth.models import AbstractUser
+from django.db import models
 
 
 class RoleChoices(models.TextChoices):

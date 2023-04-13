@@ -3,7 +3,6 @@ import datetime as dt
 from django.core.validators import (MaxValueValidator, MinValueValidator,
                                     RegexValidator)
 from rest_framework import serializers
-
 from reviews import models
 
 username_regex_validator = RegexValidator(
